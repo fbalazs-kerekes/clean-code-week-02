@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CurrencyConverter tests GenerateConversionReport tests Happy path should generate conversion report for EUR to HUF between 2024-01-01T00:00:00.000Z and 2024-01-05T00:00:00.000Z 1`] = `
+"Conversion Report:
+100
+99
+98
+100
+100"
+`;
+
+exports[`CurrencyConverter tests GenerateConversionReport tests Happy path should generate conversion report for HUF to EUR between 2024-01-01T00:00:00.000Z and 2024-01-05T00:00:00.000Z 1`] = `
+"Conversion Report:
+4
+2
+1
+5
+8"
+`;
